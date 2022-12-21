@@ -1,5 +1,5 @@
 # Origin image
-FROM debian
+FROM debian:bullseye
 
 # update
 RUN apt update
